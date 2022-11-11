@@ -5,6 +5,8 @@ function App() {
     <div className="container-fluid">
       <NavBar />
       <Routes>
+        <Route exact path="/" element={<Home />}></Route>
+        <Route exact path="/todo" element={<TodoList />}></Route>
       </Routes>
     </div>
   );
