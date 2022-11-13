@@ -11,6 +11,7 @@ This is a simple to-do app that allows you to create, read, update and delete a 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation--set-up)
 - [Contributions](#contributions)
+- [Back-end Link](#back-end-link)
 - [License and Copyright](#license-and-copyright)
 - [Author Info](#author-info)
 
@@ -49,6 +50,10 @@ Run
 ```
 npm start
 ```
+
+## Back-end Link
+
+- [Ruby Back-end](https://github.com/Felix-Barosio/To-Do-Server)
 
 ## Contributions
 
